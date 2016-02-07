@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bob Kelly]]></title>
+        <description><![CDATA[Bob Kelly]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 21:42:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scripting Articles]]></title>
+            <description><![CDATA[<article><h1>Scripting Articles</h1><p>Bob wrote the scripting column at MCP Magazine for a while, but had to stop when other work became demanding of too much time. Some of the articles written include... </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3241a4cfd95b3bb93875444c12951a277f0aa52.png"></article>]]></description>
+            <link>undefinedscripting-articles/index.html</link>
+            <guid isPermaLink="false">45f5a3dd-6cf5-494b-99df-5930eb2aee3a</guid>
+            <pubDate>Sun, 07 Feb 2016 21:38:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
