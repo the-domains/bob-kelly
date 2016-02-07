@@ -1,0 +1,28 @@
+name: Bob Kelly
+favicon: null
+layout_spectrum: 0.45504061109386384
+typography_spectrum: 0.0009131832048296928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5774982417933643
+  lightness: 0.36777425720356405
+  saturation: 0.37350616115145385
+  rhythmicContrast: 0.1528155526611954
+purpose: []
