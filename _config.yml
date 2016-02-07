@@ -1,28 +1,40 @@
-name: Bob Kelly
 favicon: null
-layout_spectrum: 0.45504061109386384
-typography_spectrum: 0.0009131832048296928
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Bob Kelly
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.3735061611514539
+  brandStrength: 0.5774982417933643
+  rhythmicContrast: 0.1528155526611954
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5774982417933643
-  lightness: 0.36777425720356405
-  saturation: 0.37350616115145385
-  rhythmicContrast: 0.1528155526611954
-purpose: []
+  lightness: 0.367774257203564
+typography_spectrum: 0.0009131832048296928
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.718638
+analytics:
+  twitter: null
+  google: null
+  facebook: null
