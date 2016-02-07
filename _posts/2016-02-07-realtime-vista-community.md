@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T21:38:32.717Z'
-dateModified: '2016-02-07T21:33:21.910Z'
+datePublished: '2016-02-07T21:43:00.080Z'
+dateModified: '2016-02-07T21:42:54.256Z'
 title: Realtime Vista Community
 author: []
+sourcePath: _posts/2016-02-07-realtime-vista-community.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-realtime-vista-community.md
-published: true
 url: realtime-vista-community/index.html
 _type: Article
 
